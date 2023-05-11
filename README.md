@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello 👋 I am Shovon (Pronounced as "Show von").
 
-<!--
-**theshovonsaha/theshovonsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at IBM 
+- 🌱 I’m currently learning core principles of Software Design 
+- 🤔 I’m looking for career opportinities on Software Architect
+- 💬 Ask me about my learning journey
+- 📫 How to reach me: theshovonsaha@gmail.com
+- ⚡ Fun fact: I am an Artsy Person, I like playing guitar and making cinematic videos
+<br />
 
-Here are some ideas to get you started:
+## Connect with me :point_down:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theshovonsaha/)
+<br />
+## Articles
+[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='instagram' height='40'>](https://theshovonsaha.medium.com/)  
+
+<br />
+<br />
+<br />
+
+## Languages and Tools  :fire:
+<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='instagram' height='40'>
+
+<br />
+<br />
+
+![Current Profile Views](https://gpvc.arturio.dev/theshovonsaha)
