@@ -1,4 +1,4 @@
-### Hello 👋 I am Shovon (Pronounced as "Show von").
+### Hello 👋 I am Shovon (Pronounced as "Show von"). aka https://github.com/theshovon-zz
 
 - 🔭 I’m currently working at IBM 
 - 🌱 I’m currently learning core principles of Software Design 
