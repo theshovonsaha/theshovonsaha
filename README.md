@@ -25,4 +25,3 @@
 <br />
 <br />
 
-![Current Profile Views](https://gpvc.arturio.dev/theshovonsaha)
