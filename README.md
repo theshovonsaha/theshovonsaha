@@ -1,8 +1,8 @@
 ### Hello 👋 I am Shovon (Pronounced as "Show von"). aka https://github.com/theshovon-zz
 
-- 🔭 I’m currently working at IBM 
-- 🌱 I’m currently learning core principles of Software Design 
-- 🤔 I’m looking for career opportinities on Software Architect
+- 🔭 Software Developer with 3 years of experience at IBM.
+- 🌱 Mastering the principles of Software Design 
+- 🤔 Career goals on Software Architecture
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: theshovonsaha@gmail.com
 - ⚡ Fun fact: I am an Artsy Person, I like playing guitar and making cinematic videos
