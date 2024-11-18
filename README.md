@@ -1,6 +1,6 @@
-### Hello 👋 I am Shovon (Pronounced as "Show von"). aka https://github.com/theshovon-zz
+### Hello 👋 I am Shovon (Pronounced as "Show von") : [https://www.theshovonsaha.com](https://www.theshovonsaha.com/)
 
-- 🔭 Software Developer with 3 years of experience at IBM.
+- 🔭 Software Developer with 4+ years of experience at IBM.
 - 🌱 Mastering the principles of Software Design 
 - 🤔 Career goals on Software Architecture
 - 💬 Ask me about my learning journey
