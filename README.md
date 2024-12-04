@@ -8,7 +8,7 @@
 
 I'm a Software Developer with extensive experience across the full development stack. Currently working on:
 
-🚀 **[Subbbed](https://github.com/theshovon/subbbed)** - A privacy-focused subscription management Chrome extension
+🚀 **[Subbbed]([https://github.com/theshovon/subbbed](https://chromewebstore.google.com/detail/subbbed/kgdfjmaihpolhcglmggkpngafldbkino?hl=en-US&authuser=3&utm_source=ext_sidebar))** - A privacy-focused subscription management Chrome extension
 - Full-stack implementation with Chrome Extension APIs
 - Privacy-first architecture and secure data handling
 - Modern React practices and state management
