@@ -1,62 +1,71 @@
 # Hello 👋 I'm Shovon (Pronounced as "Show von")
 
-<div align="center">
-  <a href="https://www.theshovonsaha.com">
-    <img src="https://img.shields.io/badge/Website-theshovonsaha.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://linkedin.com/in/theshovonsaha">
-    <img src="https://img.shields.io/badge/LinkedIn-theshovonsaha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@theshovonsaha">
-    <img src="https://img.shields.io/badge/Medium-@theshovonsaha-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-theshovonsaha.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.theshovonsaha.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshovonsaha)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://theshovonsaha.medium.com)
 
-## About Me 🚀
-- 💻 Software Developer with 4+ years at IBM, specializing in frontend development
-- 🔭 Currently building [Subbbed](https://github.com/theshovon/subbbed) - A privacy-focused subscription management Chrome extension
-- 🌱 Passionate about Software Architecture and Design Principles
-- 🎯 Led development improving performance by 80% at IBM
-- 🎸 Fun fact: I'm an artsy person who plays guitar and creates cinematic videos
+## About Me 👨‍💻
 
-## Technical Expertise 🛠️
+I'm a Frontend Software Engineer with a passion for building exceptional web experiences. Currently working on:
 
-<div align="center">
-  
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+🚀 **[Subbbed](https://github.com/theshovon/subbbed)** - A privacy-focused subscription management Chrome extension
+- Built with JavaScript and Chrome Extension APIs
+- Privacy-first architecture
+- Modern React practices
+- Secure user data handling
+
+💼 **Previously at IBM (2019-2024)**
+- Built high-performance analytics applications serving 1M+ users
+- Improved data loading performance by 80%
+- Led cross-platform feature development
+- Mentored junior developers
+
+## Tech Stack 🛠
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### State Management & Testing
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-</div>
+## Featured Projects 🌟
+
+### [Feature Flag Management System](https://github.com/theshovon/feature-flags)
+Dynamic feature control system enabling safe rollouts
+- React & Node.js
+- 40% improvement in deployment safety
+
+### [Real-time Notification Service](https://github.com/theshovon/notifications)
+Scalable notification system with prioritized messaging
+- React & Socket.io
+- Handles 1000+ concurrent connections
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Featured Projects 🌟
-
-<div align="center">
-
-[![Subbbed Card](https://github-readme-stats.vercel.app/api/pin/?username=theshovon&repo=subbbed&theme=dark)](https://github.com/theshovon/subbbed)
-[![Feature Flags Card](https://github-readme-stats.vercel.app/api/pin/?username=theshovon&repo=feature-flags&theme=dark)](https://github.com/theshovon/feature-flags)
-
-</div>
-
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshovonsaha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshovonsaha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theshovonsaha&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
-## Let's Connect! 🤝
-Feel free to reach out at theshovonsaha@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/theshovonsaha/). 
-Always open to interesting conversations and collaboration opportunities!
+## 🎸 Beyond Coding
+- Creating cinematic videos
+- Playing guitar
+- Always learning and exploring new technologies
+
+## Get in Touch 📫
+- Email: theshovonsaha@gmail.com
+- Website: [theshovonsaha.com](https://www.theshovonsaha.com)
+- LinkedIn: [theshovonsaha](https://linkedin.com/in/theshovonsaha)
