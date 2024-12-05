@@ -1,9 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme-with-blog:
@@ -15,6 +14,5 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@theshovonsaha"
           max_post_count: 5
+          readme_path: './README.md'
           template: "[$title]($url)"
-          date_format: "yyyy-mm-dd"
-          tag_post_pre_newline: true
