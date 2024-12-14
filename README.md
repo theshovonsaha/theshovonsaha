@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-theshovonsaha.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.theshovonsaha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshovonsaha)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://theshovonsaha.medium.com)
-&nbsp;![](https://komarev.com/ghpvc/?username=theshovonsaha&color=brightgreen)
+&nbsp;![](https://komarev.com/ghpvc/?username=theshovonsaha&color=brightgreen) [lost profile with accomplishments...](https://github.com/theshovon-zz)
 ## About Me 👨‍💻
 
 I'm a Software Developer with extensive experience across the full development stack. Currently working on:
