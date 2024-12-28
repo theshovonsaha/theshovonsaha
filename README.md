@@ -69,21 +69,21 @@ I'm a Software Developer with extensive experience across the full development s
 
 ## Featured Projects 🌟
 
-### [Adzeera - Media Production & Digital Agency](https://github.com/yourusername/adzeera)
+### [Adzeera - Media Production & Digital Agency](https://adzeera.com/)
 Enterprise-grade digital platform for media production and web development
 - Next.js & React frontend with TailwindCSS and Framer Motion
 - Cloudinary integration for optimized media delivery
 - Three distinct portfolio templates with unique animations
 - Dynamic media showcase system with 99% performance score
 
-### [Autovana - Mobile Car Detailing Platform](https://github.com/yourusername/autovana)
+### [Autovana - Mobile Car Detailing Platform](https://autovanacarwash.com)
 High-performance car detailing booking system
 - React & Node.js full-stack implementation
 - Firebase/Firestore for real-time data persistence
 - Google Maps API integration with dynamic pricing
 - Handles 500+ bookings monthly
 
-### [AI Chat Widget](https://github.com/yourusername/ai-chat-widget)
+### [AI Chat Widget](https://anxius.netlify.app)
 Versatile multi-provider AI chat integration system
 - React & TypeScript implementation with Zustand
 - Support for 5+ major AI providers
