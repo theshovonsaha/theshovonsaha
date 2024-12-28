@@ -90,7 +90,7 @@ Versatile multi-provider AI chat integration system
 - Real-time WebSocket communication
 - 98% uptime with automatic failover
 
-### [Subbbed - Subscription Tracker](https://github.com/yourusername/subbbed)
+### [Subbbed - Subscription Tracker](https://chromewebstore.google.com/detail/subbbed/kgdfjmaihpolhcglmggkpngafldbkino)
 Modern subscription management Chrome extension
 - JavaScript & Chrome Extensions API
 - TailwindCSS for responsive design
