@@ -69,27 +69,34 @@ I'm a Software Developer with extensive experience across the full development s
 
 ## Featured Projects 🌟
 
-### [Feature Flag Management Service](https://github.com/theshovon/feature-flags)
-Enterprise-grade feature management system
-- Full-stack implementation with React & Node.js
-- MongoDB for data persistence
-- 40% improvement in deployment safety
+### [Adzeera - Media Production & Digital Agency](https://github.com/yourusername/adzeera)
+Enterprise-grade digital platform for media production and web development
+- Next.js & React frontend with TailwindCSS and Framer Motion
+- Cloudinary integration for optimized media delivery
+- Three distinct portfolio templates with unique animations
+- Dynamic media showcase system with 99% performance score
 
-### [Real-time Notification System](https://github.com/theshovon/notifications)
-High-performance notification service
-- React frontend with Socket.io
-- Redis for message queuing
-- Handles 1000+ concurrent connections
+### [Autovana - Mobile Car Detailing Platform](https://github.com/yourusername/autovana)
+High-performance car detailing booking system
+- React & Node.js full-stack implementation
+- Firebase/Firestore for real-time data persistence
+- Google Maps API integration with dynamic pricing
+- Handles 500+ bookings monthly
 
-### [Analytics Dashboard](https://github.com/theshovon/analytics)
-Responsive analytics platform
-- React & TypeScript frontend
-- Real-time data visualization
-- 95% performance score
+### [AI Chat Widget](https://github.com/yourusername/ai-chat-widget)
+Versatile multi-provider AI chat integration system
+- React & TypeScript implementation with Zustand
+- Support for 5+ major AI providers
+- Real-time WebSocket communication
+- 98% uptime with automatic failover
 
-## Latest Blog Posts 📚
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### [Subbbed - Subscription Tracker](https://github.com/yourusername/subbbed)
+Modern subscription management Chrome extension
+- JavaScript & Chrome Extensions API
+- TailwindCSS for responsive design
+- Web Animations API for fluid transitions
+- 4.8/5 user satisfaction rating
+
 
 ## GitHub Stats 📊
 
