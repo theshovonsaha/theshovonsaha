@@ -101,9 +101,9 @@ Modern subscription management Chrome extension
 ## GitHub Stats 📊
 
 <div align="center">
-  <div>
+<!--   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=theshovonsaha&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </div>
+  </div> -->
   <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshovonsaha&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
   </div>
