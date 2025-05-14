@@ -55,13 +55,13 @@ Results-driven Full Stack Developer with 5+ years of experience architecting and
 
 ## 💻 Additional Projects
 
-### FocusOneTask - Productivity Task Manager with AI | [GitHub](https://github.com/yourusername/focusonetask)
+### FocusOneTask - Productivity Task Manager with AI | [Live Site](https://focusonetask.com)
 - Advanced task management application with AI-powered assistant for productivity optimization
 - Features include secure authentication, task categorization, calendar views, and subscription management
 - Built with Next.js, React, TypeScript, Tailwind CSS, Supabase and Zustand
 - Supports dark/light mode with responsive design for all devices
 
-### Wiggle Room Budget - Flexible Financial Management | [GitHub](https://github.com/yourusername/wiggle-room-budget)
+### Wiggle Room Budget - Flexible Financial Management 
 - Innovative budgeting app that helps users manage finances with payment date flexibility
 - AI-powered financial insights based on transaction history
 - Features include visual analytics, recurring transactions, and subscription management
