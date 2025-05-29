@@ -78,7 +78,7 @@
 ---
 
 ## 🏆 Featured Projects
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -125,7 +125,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 <div align="center">
   <a href="https://www.theshovonsaha.com/projects">
     <img src="https://img.shields.io/badge/View_All_Projects-🚀-FF6B6B?style=for-the-badge" alt="View All Projects" />
