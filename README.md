@@ -34,7 +34,7 @@
 
 | 🎯 **Impact** | 📈 **Scale** | 💡 **Innovation** |
 |:---:|:---:|:---:|
-| **1M+ Users Served** | **5M+ Daily Requests** | **70% Performance Gain** |
+| **1M+ Users Served** | **1M+ Daily Requests** | **70% Performance Gain** |
 | Enterprise Applications | Microservices Architecture | API Optimization |
 | **15% Ahead Schedule** | **99.9% Uptime** | **$250+ Revenue/Month** |
 | Project Delivery | System Reliability | SaaS Products |
