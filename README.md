@@ -115,7 +115,7 @@
 
 ### 🔧 [Subbbed Chrome Extension](https://chromewebstore.google.com/detail/subbbed/kgdfjmaihpolhcglmggkpngafldbkino)
 **Privacy-First Subscription Manager**
-- ⭐ **4.8/5 user rating**
+- ⭐ **5/5 user rating**
 - 🚀 **Growing user base**
 - 💡 **Zero marketing spend**
 - 🛠️ Chrome APIs, React, TailwindCSS
