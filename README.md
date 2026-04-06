@@ -23,7 +23,7 @@
 - 🏆 **First Place Winner** - Toronto Data & AI Innovation Challenge
 - ⚡ Reduced data retrieval times by **70%** through optimization
 - 🎯 Delivered enterprise features **15% ahead of schedule**
-- 💰 Created **profitable SaaS products** with **110% margins**
+- 💰 Created **profitable SaaS products** with **90% margins**
 - 🌟 Currently exploring **Senior Developer** and **Tech Lead** opportunities
 
 ## 🎯 Innovation & Leadership
