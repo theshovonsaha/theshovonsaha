@@ -27,11 +27,23 @@ identity:
 
 <div align="center">
 
-[![shovsOS](https://github-readme-stats.vercel.app/api/pin/?username=theshovonsaha&repo=shovsOS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B9DB5&icon_color=0A66C2)](https://github.com/theshovonsaha/shovsOS)
-
+[the Harness Trail Runtime — the transparent runtime
+](https://github.com/theshovonsaha/the-Harness-Trail-Runtime)
 </div>
 
-A local-first **thinking runtime** for autonomous agents. Not a framework - a runtime.
+
+A fresh, standalone backend where **every user turn is a replayable trail**:
+
+```
+InputEnvelope -> context (provenance per item) -> gate (pause/edit) -> plan
+  -> act/observe loop (tools, MCP, skills) -> verify (revision route)
+  -> respond -> memory commit (notes + facts + synopsis)
+        └── every transition = one typed event in an append-only log
+            └── TrailProjection: timeline + node/edge graph, per inspection level
+```
+
+No hidden state: what the gate shows is exactly what the model sees, and the
+whole run reconstructs from the event log alone.
 
 Every LLM call gets a compiled phase packet: typed context filtered by phase, not dumped as a transcript. Planning sees durable anchors. Acting sees tool evidence. Response generation never sees skill instructions. Three independent safety layers catch what the model misses.
 
